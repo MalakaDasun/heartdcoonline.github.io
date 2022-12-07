@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="78px" viewBox="0 0 78 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 9 Copy</title>
+    <defs>
+        <linearGradient x1="-28.2259563%" y1="-8.62204945%" x2="85.1137999%" y2="92.2243873%" id="linearGradient-1">
+            <stop stop-color="#5097DE" offset="0%"></stop>
+            <stop stop-color="#9F6CE5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-28.2259563%" y1="35.1754287%" x2="85.1137999%" y2="60.6778669%" id="linearGradient-2">
+            <stop stop-color="#5097DE" offset="0%"></stop>
+            <stop stop-color="#9F6CE5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-9-Copy">
+            <circle id="base" fill="#FFFFFF" cx="39" cy="39" r="33"></circle>
+            <circle id="progress" stroke="url(#linearGradient-1)" stroke-width="4" cx="39" cy="39" r="37"></circle>
+            <path d="M27.1678847,44.6198534 L39.0420306,32.6552938 L51.0306447,44.6552938" id="Path-5" stroke="url(#linearGradient-2)" stroke-width="4"></path>
+        </g>
+    </g>
+</svg>
